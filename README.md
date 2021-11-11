@@ -4,6 +4,8 @@ Open Street Maps tile downloader script for offline usge. A small example of off
 
 I was looking for a fast and easy way to download and use OSM tiles to my projects. Google Maps provides a big and excellent documentation of how to use every part of the API and the maps. For Open Street Maps is a lit bit trickier and more difficult.
 
+Inspired by this [script](https://gist.github.com/tonyrewin/9444410).
+
 ## Description
 
 Use [osm.py](https://github.com/georgealexakis/osm-offline/blob/main/osm.py) script and download tiles in .png format.

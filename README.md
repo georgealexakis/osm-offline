@@ -19,15 +19,19 @@ Start lat, lng must be lower than finish lat, lng as image below.
 ## Examples
 
 Open Street Maps
+
 ``` $ python osm.py 34.979067 23.350545 35.485885 26.310979 0 6 osm ```
 
 Satelite Images
+
 ``` $ python osm.py 34.979067 23.350545 35.485885 26.310979 7 10 world ```
 
 ## Use Maps Offline
 
 ``` $ git clone https://github.com/georgealexakis/osm-offline.git ```
+
 ``` $ cd osm-offline ```
+
 ``` $ npm install ```
 
 View [index.html](https://github.com/georgealexakis/osm-offline/blob/main/index.html) on web browser.

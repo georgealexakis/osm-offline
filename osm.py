@@ -28,9 +28,9 @@ class OSMTileDownloader():
             print(
                 '**********************************************************************************')
             print(
-                'py .\osm.py <start lat> <start lng> <finish lat> <finish lng> <min zoom> <max zoom> <type>')
-            print('py .\osm.py 34.979067 23.350545 35.485885 26.310979 0 6 osm')
-            print('py .\osm.py 34.979067 23.350545 35.485885 26.310979 7 10 world')
+                'python osm.py <start lat> <start lng> <finish lat> <finish lng> <min zoom> <max zoom> <type>')
+            print('python osm.py 34.979067 23.350545 35.485885 26.310979 0 6 osm')
+            print('python osm.py 34.979067 23.350545 35.485885 26.310979 7 10 world')
             print(
                 '**********************************************************************************')
             exit(2)

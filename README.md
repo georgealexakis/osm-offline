@@ -10,7 +10,7 @@ Use [osm.py](https://github.com/georgealexakis/osm-offline/blob/main/osm.py) scr
 
 ## How to choose coordinates
 
-python osm.py <start lat> <start lng> <finish lat> <finish lng> <min zoom> <max zoom> <type>
+``` $ python osm.py <start lat> <start lng> <finish lat> <finish lng> <min zoom> <max zoom> <type> ```
 
 Start lat, lng must be lower than finish lat, lng as image below.
 

@@ -8,7 +8,7 @@ window.addEventListener('load', () => {
         // Uncomment For World Imagery
         // TILE_SRC: 'tiles-library/tiles/{z}/{y}/{x}.png',
         currentZoom: 0,
-        latLng: [35.3187198, 25.1002132],
+        latLng: [35.31877, 25.10264],
         options: {
             minZoom: 0,
             maxZoom: 19

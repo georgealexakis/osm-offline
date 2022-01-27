@@ -1,0 +1,8 @@
+#map {
+    width: 100vw;
+    height: 100vh;
+}
+.container-fluid {
+    padding: 0rem !important;
+    margin: 0rem !important;
+}
